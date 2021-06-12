@@ -1,22 +1,22 @@
 {
   "main": {
     "name":"Proyecto de Redes",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"Soy estudiante de ingeniería de sistemas, estoy en sexto semestre, mis fortalezas son el desarrollo de aplicaicones Android y web. Utilizo java y kotlin para el desarrollo móvil y React js para el desarrollo web. Trabajo como desarrollador de Android con 2 años de experiencia en el uso de lenguajes de programación (Java y kotlin) trabajando con metodologías tradicionales y ágiles (Cascade, SCRUM). También uso patrones arquitectónicos como (MVC, MVVM y arquitectura en capas)",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Joven colombiano dispuesto a trasladarse a Canadá, desarrollador de Android con 2 años de experiencia en el uso de lenguajes de programación (Java y kotlin) trabajando con metodologías tradicionales y ágiles (Cascade, SCRUM). También 1 año de experiencia en desarrollo web usando PHP, JavaScript, Html y Css trabajando con el framework Laravel e implementando patrones arquitectónicos (MVC, MVVM y arquitectura en capas).",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Calle 174 # 8 - 90",
+      "city":"Bogotá",
+      "state":"D.C",
+      "zip": "141101"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.albornoz.ml",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
@@ -48,12 +48,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "user":"University?",
-        "text":"Masters in Beer tasting"
+        "user":"D. pulgarin",
+        "text":"Desarrollador móvil Android"
       },
       {
-        "user":"University?",
-        "text":"Masters in Beer tasting"
+        "user":"E.F",
+        "text":"B2 English student  "
       }
     ]
 
@@ -62,47 +62,41 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Universidad",
+        "degree":"Ingeniero de Sistemas",
+        "graduated":"2018 - Ahora",
+        "description":""
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"EF Education First - EE. UU, Boston, MA",
+        "degree":"English intermediate course - B2 certificationWhat did you study 101",
+        "graduated":"04/03/2018 - 26/04/2018",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Conecta Lab",
+        "title":"Remote Android Developer",
+        "years":"2019 - Ahora",
+        "description":"Crear 3 aplicaciones, 2 de ellas usando Java, 1 de ellas usando Kotlin y MvvM, implementar los servicios de Google, Dropbox y Firebase. Desarrollo e implementación de bases de datos Sql y noSql."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"JAVA",
+        "level":"90%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"KOTLIN",
+        "level":"80%"
       },
       {
         "name":"ReactJs",
         "level":"50%"
       },
       {
-        "name":"CSS",
+        "name":"FIREBASE",
         "level":"90%"
       },
       {
@@ -110,12 +104,12 @@
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"SCRUM",
+        "level":"75%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"MYsql",
+        "level":"90%"
       }
     ]
   },

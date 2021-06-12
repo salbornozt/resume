@@ -3,12 +3,9 @@ import Slide from "react-reveal";
 
 class Resume extends Component {
   getRandomColor() {
-    let letters = "0123456789ABCDEF";
-    let color = "#";
-    for (let i = 0; i < 6; i++) {
-      color += letters[Math.floor(Math.random() * 16)];
-    }
-    return color;
+    let colors = ["#ffc100","#ff9a00","#ff7400","#ff4d00","#ff0000"];
+
+    return colors[Math.floor(Math.random() * 5)];
   }
 
   render() {

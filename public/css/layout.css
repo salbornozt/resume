@@ -174,7 +174,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #a1a1a1; }
+ul#nav li.current a { color: #fd4e01; }
 
 
 /* ------------------------------------------------------------------ */
@@ -246,7 +246,7 @@ ul#nav li.current a { color: #a1a1a1; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #112428;
+   border-bottom: 3px solid #fd4e01;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -293,7 +293,7 @@ ul#nav li.current a { color: #a1a1a1; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #333;
+  	background: rgb(0, 0, 0);
   	height: 42px;
   	border-radius: 0px;
 }
@@ -789,14 +789,14 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #000000;
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #0762f9; }
+#contact a, #contact a:visited  { color: #fd4e01; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -857,7 +857,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #0762f9;
+	background-color: #fd4e01;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -876,7 +876,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #0762f9;
+	color: #fd4e01;
 	font-size: 13px;
 }
 #message-warning, #message-success {
